@@ -1,4 +1,3 @@
-# Smart-Washroom-Occupancy-Cleaniness-Monitoring
 # 🚽 Smart Washroom Occupany & Cleaniness Monitoring System (IoT-Based) 📡
 
 An IoT project to monitor washroom **occupancy** and **cleanliness** in **public** or **shared washrooms** using low-cost embedded sensors and real-time cloud updates.
